@@ -1,5 +1,5 @@
 ---
-title: KDC great coffee website
+title: KDC great coffee website is live here
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
